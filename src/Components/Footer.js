@@ -25,9 +25,9 @@ export default function Footer() {
                 <NavLink to="/riskdisclosure" className={classes.footerLink}>
                     Risk Disclosure
                 </NavLink>
-                <NavLink to="/newscrypto.io" className={classes.footerLink}>
+                <a href="https://newscrypto.io" className={classes.footerLink}>
                     NewsCrypto.io
-                </NavLink>
+                </a>
                 <img src={Twitter} className={classes.footerLink} alt="" />
                 <img src={Instagram} className={classes.footerLink} alt="" />
                 <img src={Facebook} className={classes.footerLink} alt="" />

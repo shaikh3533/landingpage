@@ -37,7 +37,6 @@ export default function App() {
     return (
         <>
             <Switch>
-                <Route exact path="/newscrypto.io" component={NewsCryptoIO} />
                 <Route component={DefaultRoutes} />
             </Switch>
             <Footer />
