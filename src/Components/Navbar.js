@@ -9,10 +9,10 @@ function Navbar() {
         <>
             <nav className="navbar navbar-expand-lg navbar-light">
                 <div className="container">
-                    <NavLink to='./home' className="navbar-brand">
+                    <NavLink to='/' className="navbar-brand">
                         <img src={logo} className="w-75" />
                     </NavLink>
-                    <NavLink to='./home' className="navbar-brand mt-auto">
+                    <NavLink to='/' className="navbar-brand mt-auto">
                         <img src={logoName} className="w-75" />
                     </NavLink>
                     <button className="navbar-toggler" type="button" data-bs-toggle="collapse"

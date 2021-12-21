@@ -17,7 +17,7 @@ export default function App() {
             <>
                 <Navbar />
                 <Switch>
-                    <Route exact path="/home" component={Home} />
+                    <Route exact path="/" component={Home} />
                     <Route exact path="/support" component={Support} />
                     <Route exact path="/termsandconditions" component={TermsAndConditions} />
                     <Route exact path="/privacypolicy" component={PrivacyPolicy} />
@@ -27,7 +27,7 @@ export default function App() {
 
 
 
-                    <Redirect to="/home" />
+                    <Redirect to="/" />
                 </Switch>
 
             </>
