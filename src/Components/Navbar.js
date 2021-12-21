@@ -24,19 +24,19 @@ function Navbar() {
                         <div className="ms-auto mt-2">
                             <ul className="navbar-nav">
                                 <li className="nav-item my-auto">
-                                    <a activeClassName='menu_active' href='#WhatIsCopyTrading' exact className={`nav-link ${classes.textColor}`}>What is Copy Trading</a>
+                                    <a activeClassName='menu_active' href='/#WhatIsCopyTrading' exact className={`nav-link ${classes.textColor}`}>What is Copy Trading</a>
                                 </li>
                                 <li className="nav-item my-auto">
-                                    <a activeClassName='menu_active' href='#WhyCopyTrading' exact className={`nav-link ${classes.textColor}`}>Why Copy Trading</a>
+                                    <a activeClassName='menu_active' href='/#WhyCopyTrading' exact className={`nav-link ${classes.textColor}`}>Why Copy Trading</a>
                                 </li>
                                 <li className="nav-item my-auto">
-                                    <a activeClassName='menu_active' href='#Pros' exact className={`nav-link ${classes.textColor}`}>Pros</a>
+                                    <a activeClassName='menu_active' href='/#Pros' exact className={`nav-link ${classes.textColor}`}>Pros</a>
                                 </li>
                                 <li className="nav-item my-auto">
-                                    <a activeClassName='menu_active' href='#HowItWorks' exact className={`nav-link ${classes.textColor}`}>How it works</a>
+                                    <a activeClassName='menu_active' href='/#HowItWorks' exact className={`nav-link ${classes.textColor}`}>How it works</a>
                                 </li>
                                 <li className="nav-item my-auto">
-                                    <a activeClassName='menu_active' href='#FAQ' exact className={`nav-link ${classes.textColor}`}>FAQ</a>
+                                    <a activeClassName='menu_active' href='/#FAQ' exact className={`nav-link ${classes.textColor}`}>FAQ</a>
                                 </li>
                                 <li className="nav-item my-auto">
                                     <button activeClassName='menu_active' exact className={`nav-link mx-1 ${classes.navButton}`}>REGISTER</button>
