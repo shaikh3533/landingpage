@@ -1,0 +1,71 @@
+.margin{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.heading1 {
+    font-size: 35px;
+    font-weight: 900 !important;
+    color: #4D4D4D;
+    margin-bottom: 20px !important;
+}
+
+.backgroundImage {
+    background: url(../../Images/bgWorldMap.png);
+    background-size: cover;
+    height: 400px;
+}
+
+.exchangeLogo1 {
+    transition: 400ms linear;
+}
+
+.exchangeLogo1:hover text, .exchangeLogo1:hover rect {
+    fill: #F3BA2D !important;
+}
+
+.exchangeLogo2 {
+    filter: grayscale();
+    transition: 400ms linear;
+}
+
+.exchangeLogo2:hover {
+    filter: none;
+}
+
+.exchangeLogo3 {
+    transition: 400ms linear;
+}
+
+.exchangeLogo3:hover path {
+    fill: #23AF91 !important;
+}
+
+.exchangeLogo4 {
+    transition: 400ms linear;
+}
+
+.exchangeLogo4:hover rect {
+    fill: #43AFC8 !important;
+}
+
+.exchangeLogo4:hover path {
+    fill: #000000 !important;
+}
+
+.exchangeLogo5 {
+    filter: grayscale();
+    transition: 400ms linear;
+}
+
+.exchangeLogo5:hover {
+    filter: none;
+}
+
+.exchangeLogo6 {
+    transition: 400ms linear;
+}
+
+.exchangeLogo6:hover path {
+    fill: #6C3DE0 !important;
+}

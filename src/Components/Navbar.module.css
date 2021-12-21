@@ -1,0 +1,15 @@
+.navButton {
+    width: 86px;
+    border-radius: 50px 50px;
+    border: none;
+    background-image: linear-gradient(to right, #00DDC6, #00AEE1, #00DDC6);
+    color: white !important;
+    font-size: 14px !important;
+    padding: 1px 6px !important;
+}
+
+.textColor{
+    text-decoration: none !important;
+    color: #AFAFAF !important;
+    font-size: 16px !important;
+}

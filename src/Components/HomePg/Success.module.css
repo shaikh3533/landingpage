@@ -1,0 +1,39 @@
+.bg_1 {
+    background-image: url(../../Images/bg_1.png);
+    background-size: cover;
+}
+
+.heading {
+    font-size: 32px;
+    font-weight: 900 !important;
+    color: #4D4D4D;
+    margin-bottom: 20px !important;
+}
+
+.margin {
+    margin-top: 200px;
+    margin-bottom: 100px;
+}
+.marginDiv {
+    margin-top: 200px;
+    margin-bottom: 100px;
+}
+
+.boyImg{
+    width: 700px;
+    height: 500px;
+    margin: -10px 0px 0px -180px;
+}
+
+.button {
+    background: linear-gradient(to bottom, #00DDC6, #00AEE1);
+    color: white;
+    width: 659px;
+    height: 130px;
+    font-size: 28px;
+    font-weight: bold;
+    text-align: center;
+    border: none;
+    border-top-left-radius: 40px;
+    border-bottom-left-radius: 40px;
+}

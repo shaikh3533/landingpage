@@ -1,0 +1,111 @@
+.heading1 {
+    font-size: 35px;
+    font-weight: 900 !important;
+    color: #4D4D4D;
+    margin-bottom: 20px !important;
+}
+
+.button {
+    width: 350px;
+    height: 38px;
+    border-radius: 50px 50px;
+    border: none;
+    background-color: #4D4D4D !important;
+    color: white !important;
+    margin-top: 50%;
+    font-weight: bold;
+    font-size: 16px !important;
+    padding: 6px 6px !important;
+    transition: 400ms linear;
+}
+
+.button:hover {
+    transform: scale(1.1);
+}
+
+.backgroundImage {
+    background: linear-gradient(to right, #00AEE1, #00DDC6);
+    position: absolute;
+    width: 57.92%;
+    height: 100%;
+    margin-left: 10%;
+    padding-top: 10%;
+    border-bottom-left-radius: 7%;
+    border-top-left-radius: 7%;
+    transition: 300ms linear;
+}
+
+.backgroundImage:hover {
+    transform: scale(1.04);
+    /* width: 668px;
+    margin-left: 8%; */
+}
+
+.pc1 {
+    width: 45%;
+    height: 75%;
+    position: absolute;
+    margin-top: 8%;
+    margin-left: 80px;
+    transition: 300ms linear;
+}
+
+.pc1:hover .hoverImg {
+    opacity: 1;
+}
+
+.hoverImg {
+    position: absolute;
+    width: 22%;
+    height: 16%;
+    margin-left: 20%;
+    margin-top: 21%;
+    transition: 400ms linear;
+    opacity: 0;
+}
+
+.hoverImg:hover{
+    opacity: 1;
+}
+
+.pc2 {
+    width: 31%;
+    height: 40%;
+    position: absolute;
+    margin-top: 28%;
+    margin-left: 35%;
+    transition: 300ms linear;
+}
+
+.pc2:hover {
+    /* transform: translateX(-10px); */
+    transform: scale(1.04);
+}
+
+.notepad {
+    width: 19%;
+    height: 54%;
+    position: absolute;
+    margin-top: 20%;
+    margin-left: 1%;
+    transition: 300ms linear;
+}
+
+.notepad:hover {
+    /* transform: translateX(10px); */
+    transform: scale(1.04);
+}
+
+.mobile {
+    width: auto;
+    height: 23%;
+    position: absolute;
+    margin-top: 36%;
+    margin-left: -1%;
+    transition: 300ms linear;
+}
+
+.mobile:hover {
+    /* transform: translateX(10px); */
+    transform: scale(1.04);
+}

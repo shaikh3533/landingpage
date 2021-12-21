@@ -1,0 +1,30 @@
+.heading1 {
+    font-size: 35px;
+    font-weight: 900 !important;
+    color: #4D4D4D;
+    margin-bottom: 20px !important;
+}
+
+.accordianCss {
+    border-color: #707070 !important;
+    background: #EDEDED !important;
+    color: #00AEE1 !important;
+    border-radius: 15px !important;
+}
+
+.accordiandiv {
+    border: none !important;
+}
+
+.accordianbody {
+    color: white;
+    background: #4D4D4D;
+    border-radius: 20px;
+    margin-top: 1%;
+}
+
+.bg_1 {
+    background: url(../../Images/bgImg.png);
+    background-size: cover;
+    overflow: hidden;
+}

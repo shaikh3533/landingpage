@@ -1,0 +1,16 @@
+<svg id="Component_14_1" data-name="Component 14 – 1" xmlns="http://www.w3.org/2000/svg" width="352.856" height="83.314" viewBox="0 0 352.856 83.314">
+  <text id="BINANCE" transform="translate(94.856 10.175)" fill="#4d4d4d" font-size="50" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="48">BINANCE</tspan></text>
+  <g id="Group_1589" data-name="Group 1589" transform="translate(-786.281 -573.561)">
+    <rect id="Rectangle_180" data-name="Rectangle 180" width="14.978" height="14.978" transform="translate(796.872 604.628) rotate(45)" fill="#4d4d4d"/>
+    <rect id="Rectangle_181" data-name="Rectangle 181" width="14.978" height="14.978" transform="translate(827.938 604.628) rotate(45)" fill="#4d4d4d"/>
+    <rect id="Rectangle_182" data-name="Rectangle 182" width="14.978" height="14.978" transform="translate(859.004 604.628) rotate(45)" fill="#4d4d4d"/>
+    <g id="Group_1587" data-name="Group 1587" transform="translate(801.814 620.161)">
+      <rect id="Rectangle_183" data-name="Rectangle 183" width="14.978" height="36.945" transform="translate(41.657) rotate(45)" fill="#4d4d4d"/>
+      <rect id="Rectangle_184" data-name="Rectangle 184" width="14.978" height="36.945" transform="translate(36.715 26.124) rotate(135)" fill="#4d4d4d"/>
+    </g>
+    <g id="Group_1588" data-name="Group 1588" transform="translate(801.814 573.561)">
+      <rect id="Rectangle_185" data-name="Rectangle 185" width="14.978" height="36.945" transform="translate(10.591 36.715) rotate(-135)" fill="#4d4d4d"/>
+      <rect id="Rectangle_186" data-name="Rectangle 186" width="14.978" height="36.945" transform="translate(15.533 10.591) rotate(-45)" fill="#4d4d4d"/>
+    </g>
+  </g>
+</svg>
